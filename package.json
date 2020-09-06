@@ -1,5 +1,5 @@
 {
-  "name": "tc-wrapper",
+  "name": "topcord-wrapper",
   "version": "1.0.0",
   "description": "An unoffical wrapper for https://topcord.xyz/",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "TopCord",
     "Discord"
   ],
-  "author": "Syn05",
+  "author": "syncode05",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/SynCode05/TCWrapper/issues"
@@ -24,5 +24,6 @@
   "dependencies": {
     "axios": "^0.20.0",
     "events": "^3.2.0"
-  }
+  },
+  "devDependencies": {}
 }
