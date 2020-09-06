@@ -1,5 +1,5 @@
 {
-  "name": "tcwrapper",
+  "name": "tc-wrapper",
   "version": "1.0.0",
   "description": "An unoffical wrapper for https://topcord.xyz/",
   "main": "index.js",
